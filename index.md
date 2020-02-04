@@ -1,8 +1,3 @@
----
-layout: home
-author_profile: true
----
-
 # 오토라이드3.0 관리자 매뉴얼
 
 # 시스템관리자
