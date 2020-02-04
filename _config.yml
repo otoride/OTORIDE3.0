@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day  
+theme: jekyll-theme-minimal  
 
 
 <h2>{{ site.data.samplelist.docs_list_title }}</h2>
